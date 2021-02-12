@@ -1,5 +1,7 @@
 # Time-Series-Analysis
 
+Summary: Performing the risk/return analysis over time for india listed IT companies. There are many listed companies, but selected sample stocks for an anlysis.
+
 Following are the steps to analyse financial stock price data
 
 1. Importing required python libraries
